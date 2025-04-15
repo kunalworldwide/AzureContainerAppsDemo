@@ -2,7 +2,6 @@
 
 A simple web application that displays random inspirational quotes with a beautiful animated background. Users can change the color theme, toggle emoji mode, and share quotes on social media.
 
-![Beautiful Quotes App](https://via.placeholder.com/800x400?text=Beautiful+Quotes+App)
 
 ## Features
 
